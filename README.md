@@ -41,7 +41,7 @@
 ## Drone swarm
 - Swarmbug: Debugging Configuration Bugs in Swarm Robotics, FSE'21.
 - SWARMFLAWFINDER: Discovering and Exploiting Logic Flaws of Swarm Algorithms, S&P'22.
-
+- Vision-based Drone Flocking in Outdoor Environments, IEEE Robotics and Automation Letters'21.
 
 ## ROS
 - PhysFrame: Type Checking Physical Frames of Reference for Robotic Systems, FSE'21.
@@ -54,7 +54,9 @@
 
 
 ## Attack detection/recovery
+- Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack, AsiaCCS'18.
 - Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach, CCS'18.
+- SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants, USENIX security'20.
 - Replay-based Recovery for Autonomous Robotic Vehicles from Sensor Deception Attacks, arxiv.
 
 
