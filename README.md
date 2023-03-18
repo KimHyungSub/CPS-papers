@@ -44,5 +44,20 @@
 
 
 ## ROS
+- PhysFrame: Type Checking Physical Frames of Reference for Robotic Systems, FSE'21.
 - RoboFuzz: Fuzzing Robotic Systems over Robot Operating System (ROS) for Finding Correctness Bugs, FSE'22.
 - On the (In)Security of Secure ROS2, CCS'22.
+
+## Forensic
+- From Control Model to Program: Investigating Robotic Aerial Vehicle Accidents with MAYDAY, USENIX security'20.
+- RVPLAYER: Robotic Vehicle Forensics by Replay with What-if Reasoning, NDSS'22.
+
+
+## Attack detection/recovery
+- Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach, CCS'18.
+- Replay-based Recovery for Autonomous Robotic Vehicles from Sensor Deception Attacks, arxiv.
+
+
+## Discovering bugs
+- Cyber-Physical Inconsistency Vulnerability Identification for Safety Checks in Robotic Vehicles, CCS'20.
+- Control Parameters Considered Harmful: Detecting Range Specification Bugs in Drone Configuration Modules via Learning-Guided Search, ICSE'22.
