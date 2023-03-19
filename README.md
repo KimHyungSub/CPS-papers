@@ -40,8 +40,9 @@
 
 ## Drone swarm
 - Swarmbug: Debugging Configuration Bugs in Swarm Robotics, FSE'21.
-- SWARMFLAWFINDER: Discovering and Exploiting Logic Flaws of Swarm Algorithms, S&P'22.
 - Vision-based Drone Flocking in Outdoor Environments, IEEE Robotics and Automation Letters'21.
+- SWARMFLAWFINDER: Discovering and Exploiting Logic Flaws of Swarm Algorithms, S&P'22.
+- Privacy-Preserving Trajectory Matching on Autonomous Unmanned Aerial Vehicles, ACSAC'22.
 
 ## ROS
 - PhysFrame: Type Checking Physical Frames of Reference for Robotic Systems, FSE'21.
