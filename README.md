@@ -27,6 +27,7 @@
 - Rocking Drones with Intentional Sound Noise on Gyroscopic Sensors, USENIX security'15.
 - WALNUT: Waging Doubt on the Integrity of MEMS Accelerometers with Acoustic Injection Attacks, EuroS&P'17.
 - SONIC GUN TO SMART DEVICES YOUR DEVICES LOSE CONTROL UNDER ULTRASOUND/SOUND, BlackHat'17.
+- Injected and Delivered: Fabricating Implicit Control over Actuation Systems by Spoofing Inertial Sensors, USENIX Security'18.
 - Un-Rocking Drones: Foundations of Acoustic Injection Attacks and Recovery Thereof, NDSS'23.
 
 
