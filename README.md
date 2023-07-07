@@ -68,3 +68,6 @@
 ## Discovering bugs
 - Cyber-Physical Inconsistency Vulnerability Identification for Safety Checks in Robotic Vehicles, CCS'20.
 - Control Parameters Considered Harmful: Detecting Range Specification Bugs in Drone Configuration Modules via Learning-Guided Search, ICSE'22.
+
+## Privacy
+- Privaros: A framework for privacy-compliant delivery drones, CCS'20.
