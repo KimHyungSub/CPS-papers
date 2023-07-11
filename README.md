@@ -1,4 +1,4 @@
-# Research papers related to robotic vehicles
+# 1. Research papers related to robotic vehicles
 
 ## SoK
 - SoK: A Minimalist Approach to Formalizing Analog Sensor Security, S&P'20.
@@ -72,7 +72,7 @@
 ## Privacy
 - Privaros: A framework for privacy-compliant delivery drones, CCS'20.
 
-# Research papers related to industrial control system (ICS)
+# 2. Research papers related to industrial control system (ICS)
 
 ## Anomaly detection with machine learning-based methods
 - Anomaly detection for a water treatment system using unsupervised machine learning, ICDMW'17
