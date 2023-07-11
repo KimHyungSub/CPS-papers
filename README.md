@@ -82,7 +82,6 @@
 - Anomaly Detection in ICS based on Data-history Analysis, EICC'20
 - Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering, KDD'21
 - Log-Based Anomaly Detection With Robust Feature Extraction and Online Learning, T-IFS 2021
-- Anomaly Detection based on Robust Spatial-temporal Modeling for Industrial Control Systems, MASS 2022
 - AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, IEEE TRANSACTIONS ON MOBILE COMPUTING 2022
 
 ## Anomaly detection with program analysis
@@ -99,7 +98,8 @@
 - Control Behavior Integrity for Distributed Cyber-Physical Systems, ICCPS'20
 - Detecting and localizing PLC intrusions using control invariants, IEEE Internet of Things Journal, 2022
 - Exploiting the Temporal Behavior of State Transitions for Intrusion Detection in ICS/SCADA, IEEE Access 2022
-
+- Anomaly Detection based on Robust Spatial-temporal Modeling for Industrial Control Systems, MASS 2022
+  
 ## Formal method
 - A Temporal Logic for Programmable Logic Controllers, Automatic Control and Computer Sciences 2021
 
