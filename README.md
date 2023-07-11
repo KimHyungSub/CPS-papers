@@ -81,7 +81,7 @@
 - Anomaly Detection based on Robust Spatial-temporal Modeling for Industrial Control Systems, MASS 2022
 - AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, IEEE TRANSACTIONS ON MOBILE COMPUTING 2022
 
-## Anomaly detection with Program Analysis
+## Anomaly detection with program analysis
 - AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, RAID'21
 
 ## Anomaly detection with side channels
