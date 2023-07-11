@@ -91,8 +91,14 @@
 - Blocking unsafe behaviors in control systems through static and dynamic policy enforcement, DAC'15
 - A systematic framework to generate invariants for anomaly detection in industrial control systems, NDSS'19
 - PLC-Sleuth: Detecting and Localizing PLC Intrusions Using Control Invariants, RAID'20
+- Control Behavior Integrity for Distributed Cyber-Physical Systems, ICCPS'20
 - Detecting and localizing PLC intrusions using control invariants, IEEE Internet of Things Journal, 2022
 - Exploiting the Temporal Behavior of State Transitions for Intrusion Detection in ICS/SCADA, IEEE Access 2022
+
+## Discovering and patching bugs and vulnerabilities
+- Detecting Insecure Code Patterns in Industrial Robot Programs, ASIACCS'20
+- ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications, USENIX Security'21
+- ICSPatch: Automated Vulnerability Localization and Non-Intrusive Hotpatching in Industrial Control Systems using Data Dependence Graphs, USENIX Security'23
 
 ## Etc
 - A trusted safety verifier for process controller code, NDSS'14
