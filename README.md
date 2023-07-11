@@ -71,3 +71,36 @@
 
 ## Privacy
 - Privaros: A framework for privacy-compliant delivery drones, CCS'20.
+
+# Research papers related to industrial control system (ICS)
+
+## Anomaly detection with machine learning-based methods
+- Anomaly detection for a water treatment system using unsupervised machine learning, ICDMW'17
+- Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering, KDD'21
+- Log-Based Anomaly Detection With Robust Feature Extraction and Online Learning, T-IFS 2021
+- Anomaly Detection based on Robust Spatial-temporal Modeling for Industrial Control Systems, MASS 2022
+- AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, IEEE TRANSACTIONS ON MOBILE COMPUTING 2022
+
+## Anomaly detection with Program Analysis
+- AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, RAID'21
+
+## Anomaly detection with side channels
+- Anomoly Detection for PLC Based on Magnetic Side Channel, EI2'20
+
+## Invariant-based (a.k.a. policy-based) methods
+- Blocking unsafe behaviors in control systems through static and dynamic policy enforcement, DAC'15
+- A systematic framework to generate invariants for anomaly detection in industrial control systems, NDSS'19
+- PLC-Sleuth: Detecting and Localizing PLC Intrusions Using Control Invariants, RAID'20
+- Detecting and localizing PLC intrusions using control invariants, IEEE Internet of Things Journal, 2022
+- Exploiting the Temporal Behavior of State Transitions for Intrusion Detection in ICS/SCADA, IEEE Access 2022
+
+## Etc
+- A trusted safety verifier for process controller code, NDSS'14
+- Towards automated safety vetting of PLC code in real-world plants, S&P'19
+- Automated Runtime Mitigation for Misconfiguration Vulnerabilities in Industrial Control Systems, RAID'22
+
+## SoK
+- SoK: Attacks on Industrial Control Logic and Formal Verification-Based Defenses, Euro S&P'21
+
+## Attacks 
+- Constrained Concealment Attacks against Reconstruction-based Anomaly Detectors in Industrial Control Systems, ACSAC'20
