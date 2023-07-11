@@ -74,16 +74,21 @@
 
 # 2. Research papers related to industrial control system (ICS)
 
+## SoK
+- SoK: Attacks on Industrial Control Logic and Formal Verification-Based Defenses, Euro S&P'21
+  
 ## Anomaly detection with machine learning-based methods
 - Anomaly detection for a water treatment system using unsupervised machine learning, ICDMW'17
+- Anomaly Detection in ICS based on Data-history Analysis, EICC'20
 - Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering, KDD'21
 - Log-Based Anomaly Detection With Robust Feature Extraction and Online Learning, T-IFS 2021
 - Anomaly Detection based on Robust Spatial-temporal Modeling for Industrial Control Systems, MASS 2022
 - AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, IEEE TRANSACTIONS ON MOBILE COMPUTING 2022
 
 ## Anomaly detection with program analysis
+- A trusted safety verifier for process controller code, NDSS'14
 - AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, RAID'21
-
+  
 ## Anomaly detection with side channels
 - Anomoly Detection for PLC Based on Magnetic Side Channel, EI2'20
 
@@ -95,18 +100,16 @@
 - Detecting and localizing PLC intrusions using control invariants, IEEE Internet of Things Journal, 2022
 - Exploiting the Temporal Behavior of State Transitions for Intrusion Detection in ICS/SCADA, IEEE Access 2022
 
+## Formal method
+- A Temporal Logic for Programmable Logic Controllers, Automatic Control and Computer Sciences 2021
+
 ## Discovering and patching bugs and vulnerabilities
+- Towards automated safety vetting of PLC code in real-world plants, S&P'19
 - Detecting Insecure Code Patterns in Industrial Robot Programs, ASIACCS'20
 - ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications, USENIX Security'21
-- ICSPatch: Automated Vulnerability Localization and Non-Intrusive Hotpatching in Industrial Control Systems using Data Dependence Graphs, USENIX Security'23
-
-## Etc
-- A trusted safety verifier for process controller code, NDSS'14
-- Towards automated safety vetting of PLC code in real-world plants, S&P'19
+- Empirical Study of PLC Authentication Protocols in Industrial Control Systems, SPW'21
 - Automated Runtime Mitigation for Misconfiguration Vulnerabilities in Industrial Control Systems, RAID'22
-
-## SoK
-- SoK: Attacks on Industrial Control Logic and Formal Verification-Based Defenses, Euro S&P'21
-
+- ICSPatch: Automated Vulnerability Localization and Non-Intrusive Hotpatching in Industrial Control Systems using Data Dependence Graphs, USENIX Security'23
+  
 ## Attacks 
 - Constrained Concealment Attacks against Reconstruction-based Anomaly Detectors in Industrial Control Systems, ACSAC'20
