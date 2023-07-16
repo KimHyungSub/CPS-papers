@@ -87,7 +87,8 @@
 ## Anomaly detection with program analysis
 - A trusted safety verifier for process controller code, NDSS'14
 - AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, RAID'21
-  
+- SCAPHY: Detecting Modern ICS Attacks by Correlating Behaviors in SCADA and PHYsical, S&P'23
+    
 ## Anomaly detection with side channels
 - Anomoly Detection for PLC Based on Magnetic Side Channel, EI2'20
 
