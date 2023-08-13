@@ -3,7 +3,7 @@
 ## SoK
 - SoK: A Minimalist Approach to Formalizing Analog Sensor Security, S&P'20.
 - SoK: Security and Privacy in the Age of Commercial Drones, S&P'21.
-- SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View, arxiv.
+- SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View, Euro S&P'23.
 
 
 ## Electromagnetic field injection attacks
