@@ -114,3 +114,12 @@
   
 ## Attacks 
 - Constrained Concealment Attacks against Reconstruction-based Anomaly Detectors in Industrial Control Systems, ACSAC'20
+
+
+# 3. Research papers related to autonomous vehicles
+
+## Discovering bugs
+- Av-fuzzer: Finding safety violations in autonomous driving systems, ISSRE'20.
+- Drivefuzz: Discovering autonomous driving bugs through driving quality-guided fuzzing, CCS'22.
+- Doppelganger Test Generation for Revealing Bugs in Autonomous Driving Software, ICSE'23.
+- Discovering Adversarial Driving Maneuvers against Autonomous Vehicles, USENIX security'23.
