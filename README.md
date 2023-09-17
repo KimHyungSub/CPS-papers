@@ -13,6 +13,7 @@
 
 
 ## Electromagnetic field injection attacks
+- Introduction to the special issue on high-power electromagnetics (HPEM) and intentional electromagnetic interference (IEMI), IEEE Transactions on electromagnetic compatibility, 2004.
 - Detection of Electromagnetic Signal Injection Attacks on Actuator Systems, RAID'22.
 - Paralyzing Drones via EMI Signal Injection on Sensory Communication Channels, NDSS'23.
 - Physical-Layer Attacks Against PulseWidth Modulation-Controlled Actuators, USENIX security'22.
@@ -66,10 +67,17 @@
 - RVPLAYER: Robotic Vehicle Forensics by Replay with What-if Reasoning, NDSS'22.
 
 
-## Attack detection/recovery
+## Memory attack detection, recovery, and prevention
+- Protecting baremetal embedded systems with privilege overlays, S&P'17.
+- Securing real-time microcontroller systems through customized memory view switching, NDSS'18.
+- ACES: Automatic compartments for embedded systems, USENIX security'18.
+
+
+## Physical attack detection, recovery, and prevention
 - Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack, AsiaCCS'18.
 - Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach, CCS'18.
 - SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants, USENIX security'20.
+- M2MON: Building an MMIO-based Security Reference Monitor for Unmanned Vehicles, USENIX security'21.
 - Replay-based Recovery for Autonomous Robotic Vehicles from Sensor Deception Attacks, arxiv.
 
 
