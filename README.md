@@ -1,3 +1,4 @@
+<h1> Welcome a reading list for cyber-physical systems (CPS) security.</h1>
 <b>Index</b> <br>
 <a href="https://github.com/KimHyungSub/CPS-papers#1-research-papers-related-to-robotic-vehicles">1. Robotic vehicles (RVs)</a> <br>
 <a href="https://github.com/KimHyungSub/CPS-papers#2-research-papers-related-to-industrial-control-system-ics">2. Industrial control systems (ICSs)</a> <br>
@@ -125,6 +126,25 @@
 
 ## Discovering bugs
 - Av-fuzzer: Finding safety violations in autonomous driving systems, ISSRE'20.
+- A Comprehensive Study of Autonomous Vehicle Bugs, ICSE'20.
+- Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT, USENIX Security'20.
+- Automated Discovery of Denial-of-Service Vulnerabilities in Connected Vehicle Protocols, USENIX Security'21.
 - Drivefuzz: Discovering autonomous driving bugs through driving quality-guided fuzzing, CCS'22.
+- Too Afraid to Drive: Systematic Discovery of Semantic DoS Vulnerability in Autonomous Driving Planning under Physical-World Attacks, NDSS'22.
 - Doppelganger Test Generation for Revealing Bugs in Autonomous Driving Software, ICSE'23.
 - Discovering Adversarial Driving Maneuvers against Autonomous Vehicles, USENIX security'23.
+
+
+## Physical attacks
+- Drift with Devil: Security of Multi-Sensor Fusion based Localization in High-Level Autonomous Driving under GPS Spoofing, USENIX Security'20.
+-  Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures, USENIX Security'20.
+- Invisible in both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks, S&P'21.
+- Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Adversarial Attack, USENIX Security'21.
+- You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks, USENIX Security'23.
+
+
+## Preventing or mitigating physical attacks
+- Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks, USENIX Security'23.
+
+## Privacy
+- Understand Users' Privacy Perception and Decision of V2X Communication in Connected Autonomous Vehicles, USENIX Security'23.
