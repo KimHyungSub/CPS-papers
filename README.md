@@ -52,12 +52,14 @@
 - Privacy-Preserving Trajectory Matching on Autonomous Unmanned Aerial Vehicles, ACSAC'22.
 - SUAVE: An Exemplar for Self-Adaptive Underwater Vehicles, SEAMS'23.
 - Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Aerial Systems, SEAMS'23.
+- SwarmFuzz: Discovering GPS Spoofing Attacks in Drone Swarms, DSN'23.
 
 
 ## ROS
 - PhysFrame: Type Checking Physical Frames of Reference for Robotic Systems, FSE'21.
 - RoboFuzz: Fuzzing Robotic Systems over Robot Operating System (ROS) for Finding Correctness Bugs, FSE'22.
 - On the (In)Security of Secure ROS2, CCS'22.
+
 
 ## Forensic
 - From Control Model to Program: Investigating Robotic Aerial Vehicle Accidents with MAYDAY, USENIX security'20.
@@ -73,15 +75,25 @@
 
 ## Discovering bugs
 - Cyber-Physical Inconsistency Vulnerability Identification for Safety Checks in Robotic Vehicles, CCS'20.
+- PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles, NDSS'21.
 - Control Parameters Considered Harmful: Detecting Range Specification Bugs in Drone Configuration Modules via Learning-Guided Search, ICSE'22.
+- PatchVerif: Discovering Faulty Patches in Robotic Vehicles, USENIX Security'23.
+
+
+## Patching bugs
+- PGPATCH: Policy-Guided Logic Bug Patching for Robotic Vehicles, S&P'22.
+
 
 ## Privacy
 - Privaros: A framework for privacy-compliant delivery drones, CCS'20.
+
+
 
 # 2. Research papers related to industrial control system (ICS)
 
 ## SoK
 - SoK: Attacks on Industrial Control Logic and Formal Verification-Based Defenses, Euro S&P'21
+
   
 ## Anomaly detection with machine learning-based methods
 - Anomaly detection for a water treatment system using unsupervised machine learning, ICDMW'17
@@ -90,13 +102,16 @@
 - Log-Based Anomaly Detection With Robust Feature Extraction and Online Learning, T-IFS 2021
 - AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, IEEE TRANSACTIONS ON MOBILE COMPUTING 2022
 
+
 ## Anomaly detection with program analysis
 - A trusted safety verifier for process controller code, NDSS'14
 - AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, RAID'21
 - SCAPHY: Detecting Modern ICS Attacks by Correlating Behaviors in SCADA and PHYsical, S&P'23
+
     
 ## Anomaly detection with side channels
 - Anomoly Detection for PLC Based on Magnetic Side Channel, EI2'20
+
 
 ## Invariant-based (a.k.a. policy-based) methods
 - Blocking unsafe behaviors in control systems through static and dynamic policy enforcement, DAC'15
@@ -106,9 +121,11 @@
 - Detecting and localizing PLC intrusions using control invariants, IEEE Internet of Things Journal, 2022
 - Exploiting the Temporal Behavior of State Transitions for Intrusion Detection in ICS/SCADA, IEEE Access 2022
 - Anomaly Detection based on Robust Spatial-temporal Modeling for Industrial Control Systems, MASS 2022
+
   
 ## Formal method
 - A Temporal Logic for Programmable Logic Controllers, Automatic Control and Computer Sciences 2021
+
 
 ## Discovering and patching bugs and vulnerabilities
 - Towards automated safety vetting of PLC code in real-world plants, S&P'19
@@ -117,9 +134,11 @@
 - Empirical Study of PLC Authentication Protocols in Industrial Control Systems, SPW'21
 - Automated Runtime Mitigation for Misconfiguration Vulnerabilities in Industrial Control Systems, RAID'22
 - ICSPatch: Automated Vulnerability Localization and Non-Intrusive Hotpatching in Industrial Control Systems using Data Dependence Graphs, USENIX Security'23
+
   
 ## Attacks 
 - Constrained Concealment Attacks against Reconstruction-based Anomaly Detectors in Industrial Control Systems, ACSAC'20
+
 
 
 # 3. Research papers related to autonomous vehicles
