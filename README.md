@@ -74,6 +74,7 @@
 
 
 ## Discovering bugs
+- RVFuzzer: Finding Input Validation Bugs in Robotic Vehicles through Control-Guided Testing, USENIX Security'19.
 - Cyber-Physical Inconsistency Vulnerability Identification for Safety Checks in Robotic Vehicles, CCS'20.
 - PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles, NDSS'21.
 - Control Parameters Considered Harmful: Detecting Range Specification Bugs in Drone Configuration Modules via Learning-Guided Search, ICSE'22.
