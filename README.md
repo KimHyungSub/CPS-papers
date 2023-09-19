@@ -1,10 +1,10 @@
-<h1> Welcome a reading list for cyber-physical systems (CPS) security.</h1>
+<h1> :newspaper: Welcome a reading list for cyber-physical systems (CPS) security.</h1>
 <b>Index</b> <br>
-<a href="https://github.com/KimHyungSub/CPS-papers#1-research-papers-related-to-robotic-vehicles">1. Robotic vehicles (RVs)</a> <br>
-<a href="https://github.com/KimHyungSub/CPS-papers#2-research-papers-related-to-industrial-control-system-ics">2. Industrial control systems (ICSs)</a> <br>
-<a href="https://github.com/KimHyungSub/CPS-papers#3-research-papers-related-to-autonomous-vehicles">3. Autonomous vehicles (AVs)</a> <br>
+<a href="https://github.com/KimHyungSub/CPS-papers#1-research-papers-related-to-robotic-vehicles">1. Robotic vehicles (RVs)</a> :airplane: <br>
+<a href="https://github.com/KimHyungSub/CPS-papers#2-research-papers-related-to-industrial-control-system-ics">2. Industrial control systems (ICSs)</a> :factory: <br>
+<a href="https://github.com/KimHyungSub/CPS-papers#3-research-papers-related-to-autonomous-vehicles">3. Autonomous vehicles (AVs)</a> :red_car: <br>
 
-# 1. Research papers related to robotic vehicles
+# 1. Research papers related to robotic vehicles :airplane:
 
 ## SoK
 - SoK: A Minimalist Approach to Formalizing Analog Sensor Security, S&P'20.
@@ -98,7 +98,7 @@
 
 
 
-# 2. Research papers related to industrial control system (ICS)
+# 2. Research papers related to industrial control system (ICS) :factory:
 
 ## SoK
 - SoK: Attacks on Industrial Control Logic and Formal Verification-Based Defenses, Euro S&P'21
@@ -150,7 +150,7 @@
 
 
 
-# 3. Research papers related to autonomous vehicles
+# 3. Research papers related to autonomous vehicles :red_car:
 
 ## Discovering bugs
 - Av-fuzzer: Finding safety violations in autonomous driving systems, ISSRE'20.
