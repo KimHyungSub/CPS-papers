@@ -6,11 +6,11 @@
 
 # 1. Research papers related to robotic vehicles :airplane:
 
-## SoK
+## SoK/Survey
 - SoK: A Minimalist Approach to Formalizing Analog Sensor Security, S&P'20.
 - SoK: Security and Privacy in the Age of Commercial Drones, S&P'21.
 - SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View, Euro S&P'23.
-
+- A Survey on Security and Privacy Issues of UAVs, Computer Networks'23.
 
 ## Electromagnetic field injection attacks
 - Introduction to the special issue on high-power electromagnetics (HPEM) and intentional electromagnetic interference (IEMI), IEEE Transactions on electromagnetic compatibility, 2004.
