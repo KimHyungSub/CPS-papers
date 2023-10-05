@@ -54,7 +54,7 @@
 - SUAVE: An Exemplar for Self-Adaptive Underwater Vehicles, SEAMS'23.
 - Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Aerial Systems, SEAMS'23.
 - SwarmFuzz: Discovering GPS Spoofing Attacks in Drone Swarms, DSN'23.
-
+- Lightweight Privacy-Preserving Proximity Discovery for Remotely-Controlled Drones, ACSAC'23
 
 ## ROS
 - PhysFrame: Type Checking Physical Frames of Reference for Robotic Systems, FSE'21.
@@ -148,6 +148,9 @@
 ## Attacks 
 - Constrained Concealment Attacks against Reconstruction-based Anomaly Detectors in Industrial Control Systems, ACSAC'20
 
+
+## Reverse engineering
+- SePanner: Analyzing Semantics of Controller Variables in Industrial Control Systems based on Network Traffic, ACSAC'23
 
 
 # 3. Research papers related to autonomous vehicles :red_car:
