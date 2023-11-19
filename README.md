@@ -20,12 +20,12 @@
 - Physical-Layer Attacks Against PulseWidth Modulation-Controlled Actuators, USENIX security'22.
 
 
-## GPS spoofing
+## GPS/GNSS spoofing
 - All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems, USENIX security'18.
 - Crowd-GPS-Sec: Leveraging Crowdsourcing to Detect and Localize GPS Spoofing Attacks, S&P'18.
 - Cryptography Is Not Enough: Real-time Location Spoofing of Authenticated GNSS Signals, arxiv.
 - SemperFi: Anti-spoofing GPS Receiver for UAVs, NDSS'22.
-
+- Cryptography Is Not Enough: Relay Attacks on Authenticated GNSS Signals, arXiv (2022).
 
 ## Optical flow spoofing
 - Controlling UAVs with Sensor Input Spoofing Attacks, WOOT'16.
