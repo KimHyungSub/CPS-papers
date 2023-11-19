@@ -1,8 +1,8 @@
 <h1> :newspaper: Welcome a reading list for cyber-physical systems (CPS) security.</h1>
 <b>Index</b> <br>
-<a href="https://github.com/KimHyungSub/CPS-papers#1-research-papers-related-to-robotic-vehicles">1. Robotic vehicles (RVs)</a> :airplane: <br>
-<a href="https://github.com/KimHyungSub/CPS-papers#2-research-papers-related-to-industrial-control-system-ics">2. Industrial control systems (ICSs)</a> :factory: <br>
-<a href="https://github.com/KimHyungSub/CPS-papers#3-research-papers-related-to-autonomous-vehicles">3. Autonomous vehicles (AVs)</a> :red_car: <br>
+<a href="https://github.com/KimHyungSub/CPS-papers#1-research-papers-related-to-robotic-vehicles-airplane">1. Robotic vehicles (RVs)</a> :airplane: <br>
+<a href="https://github.com/KimHyungSub/CPS-papers#2-research-papers-related-to-industrial-control-system-ics-factory">2. Industrial control systems (ICSs)</a> :factory: <br>
+<a href="https://github.com/KimHyungSub/CPS-papers#3-research-papers-related-to-autonomous-vehicles-red_car">3. Autonomous vehicles (AVs)</a> :red_car: <br>
 <a href="https://github.com/KimHyungSub/CPS-papers#4-research-papers-related-to-satellites-satellite">4. Satellites</a> :satellite: <br>
 
 # 1. Research papers related to robotic vehicles :airplane:
