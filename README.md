@@ -22,6 +22,7 @@
 ### Countermeasures against EMI attacks
   - Electromagnetic interference, Electronics Computer Technology, 2011. (EMI filters such as L-C, Pi, T filters)
   - Ghost talk: Mitigating EMI signal injection attacks against analog sensors, S&P'13. (Shielding and differential signaling)
+  - Pycra: Physical challenge-response authentication for active sensors under spoofing attacks, CCS'15. (Low-pass filter)
   - Electromagnetic Signal Injection Attacks on Differential Signaling, arXiv, 2022. (Differential signaling)
 
 ## GPS/GNSS spoofing
