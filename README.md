@@ -13,13 +13,14 @@
 - SoK: Rethinking Sensor Spoofing Attacks against Robotic Vehicles from a Systematic View, Euro S&P'23.
 - A Survey on Security and Privacy Issues of UAVs, Computer Networks'23.
 
-## Electromagnetic field injection attacks
+## Electromagnetic field injection (EMI) attacks
 - Introduction to the special issue on high-power electromagnetics (HPEM) and intentional electromagnetic interference (IEMI), IEEE Transactions on electromagnetic compatibility, 2004.
 - Detection of Electromagnetic Signal Injection Attacks on Actuator Systems, RAID'22.
 - Wireless manipulation of serial communication, AsiaCCS'22.
 - Physical-Layer Attacks Against PulseWidth Modulation-Controlled Actuators, USENIX security'22.
 - Paralyzing Drones via EMI Signal Injection on Sensory Communication Channels, NDSS'23.
-
+### Countermeasures against EMI attacks
+  - Electromagnetic interference, Electronics Computer Technology, 2011. (EMI filters such as L-C, Pi, T filters)
 
 ## GPS/GNSS spoofing
 - All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems, USENIX security'18.
