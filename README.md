@@ -24,6 +24,7 @@
   - Ghost talk: Mitigating EMI signal injection attacks against analog sensors, S&P'13. (Shielding and differential signaling)
   - Pycra: Physical challenge-response authentication for active sensors under spoofing attacks, CCS'15. (Low-pass filter)
   - Electromagnetic Signal Injection Attacks on Differential Signaling, arXiv, 2022. (Differential signaling)
+  - Wireless manipulation of serial communication, AsiaCCS'22. (Twisted pair and coaxial cables)
 
 ## GPS/GNSS spoofing
 - All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems, USENIX security'18.
