@@ -16,8 +16,8 @@
 ## Electromagnetic field injection attacks
 - Introduction to the special issue on high-power electromagnetics (HPEM) and intentional electromagnetic interference (IEMI), IEEE Transactions on electromagnetic compatibility, 2004.
 - Detection of Electromagnetic Signal Injection Attacks on Actuator Systems, RAID'22.
-- Paralyzing Drones via EMI Signal Injection on Sensory Communication Channels, NDSS'23.
 - Physical-Layer Attacks Against PulseWidth Modulation-Controlled Actuators, USENIX security'22.
+- Paralyzing Drones via EMI Signal Injection on Sensory Communication Channels, NDSS'23.
 
 
 ## GPS/GNSS spoofing
