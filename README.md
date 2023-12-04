@@ -21,7 +21,8 @@
 - Paralyzing Drones via EMI Signal Injection on Sensory Communication Channels, NDSS'23.
 ### Countermeasures against EMI attacks
   - Electromagnetic interference, Electronics Computer Technology, 2011. (EMI filters such as L-C, Pi, T filters)
-  - Ghost talk: Mitigating EMI signal injection attacks against analog sensors, S&P'13. (shielding and differential signaling)
+  - Ghost talk: Mitigating EMI signal injection attacks against analog sensors, S&P'13. (Shielding and differential signaling)
+  - Electromagnetic Signal Injection Attacks on Differential Signaling, arXiv, 2022. (Differential signaling)
 
 ## GPS/GNSS spoofing
 - All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems, USENIX security'18.
