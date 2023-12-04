@@ -25,6 +25,8 @@
   - Pycra: Physical challenge-response authentication for active sensors under spoofing attacks, CCS'15. (Low-pass filter)
   - Electromagnetic Signal Injection Attacks on Differential Signaling, arXiv, 2022. (Differential signaling)
   - Wireless manipulation of serial communication, AsiaCCS'22. (Twisted pair and coaxial cables)
+### Tools
+  - <a href="https://www.ansys.com/products/electronics/ansys-hfss" target="_blank">Electromagnetic Field Simulator</a>
 
 ## GPS/GNSS spoofing
 - All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems, USENIX security'18.
