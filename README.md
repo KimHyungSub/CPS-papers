@@ -166,8 +166,10 @@
 
 
 # 3. Research papers related to autonomous vehicles :red_car:
+## 3-1) SoK/Survey
+- SoK: On the Semantic AI Security in Autonomous Driving, arxiv 2022.
 
-## 3-1) Discovering bugs
+## 3-2) Discovering bugs
 - Av-fuzzer: Finding safety violations in autonomous driving systems, ISSRE'20.
 - A Comprehensive Study of Autonomous Vehicle Bugs, ICSE'20.
 - Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT, USENIX Security'20.
@@ -178,7 +180,7 @@
 - Discovering Adversarial Driving Maneuvers against Autonomous Vehicles, USENIX security'23.
 
 
-## 3-2) Physical attacks
+## 3-3) Physical attacks
 - Drift with Devil: Security of Multi-Sensor Fusion based Localization in High-Level Autonomous Driving under GPS Spoofing, USENIX Security'20.
 -  Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures, USENIX Security'20.
 - Invisible in both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks, S&P'21.
@@ -186,11 +188,11 @@
 - You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks, USENIX Security'23.
 
 
-## 3-3) Preventing or mitigating physical attacks
+## 3-4) Preventing or mitigating physical attacks
 - Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks, USENIX Security'23.
 
 
-## 3-4) Privacy
+## 3-5) Privacy
 - Understand Users' Privacy Perception and Decision of V2X Communication in Connected Autonomous Vehicles, USENIX Security'23.
 
 
