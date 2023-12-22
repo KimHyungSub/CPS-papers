@@ -19,7 +19,10 @@
 - Detection of Electromagnetic Signal Injection Attacks on Actuator Systems, RAID'22.
 - Wireless manipulation of serial communication, AsiaCCS'22.
 - Physical-Layer Attacks Against PulseWidth Modulation-Controlled Actuators, USENIX security'22.
+- Signal Injection Attacks against CCD Image Sensors, AsiaCCS'22
 - Paralyzing Drones via EMI Signal Injection on Sensory Communication Channels, NDSS'23.
+- GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI, USENIX Security'23
+  
 ### 1-2-1) Countermeasures against EMI attacks
   - Electromagnetic interference, Electronics Computer Technology, 2011. (EMI filters such as L-C, Pi, T filters)
   - Ghost talk: Mitigating EMI signal injection attacks against analog sensors, S&P'13. (Shielding and differential signaling)
