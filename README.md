@@ -213,3 +213,7 @@
 ## 5-1) Hotpatching
 - HERA: Hotpatching of Embedded Real-time Applications, NDSS'21.
 - RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices, USENIX Security'22.
+
+
+## 5-2) Verifying/Testing correctness of CPS
+- VeriFast: A powerful, sound, predictable, fast verifier for C and Java, NASA formal methods symposium 2011.
