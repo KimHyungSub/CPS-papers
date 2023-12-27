@@ -201,6 +201,7 @@
 
 
 ## 3-6) Driving with large language models
+- LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving, arxiv 2023.
 - Empowering Autonomous Driving with Large Language Models: A Safety Perspective, arxiv 2023.
 
 
