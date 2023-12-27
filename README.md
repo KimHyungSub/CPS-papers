@@ -200,6 +200,10 @@
 - Understand Users' Privacy Perception and Decision of V2X Communication in Connected Autonomous Vehicles, USENIX Security'23.
 
 
+## 3-6) Driving with large language models
+- Empowering Autonomous Driving with Large Language Models: A Safety Perspective, arxiv 2023.
+
+
 # 4. Research papers related to satellites :satellite:
 ## 4-1) Discovering bugs or vulnerabilities
 - Space Odyssey: An Experimental Software Security Analysis of Satellites, S&P'23.
