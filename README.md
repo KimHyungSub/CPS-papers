@@ -58,11 +58,15 @@
 - DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems, USENIX security'22.
 
 
-## 1-7) Sensor spoofing simulation
+## 1-7) Laser injection
+- Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems, USENIX security'20.
+ 
+
+## 1-8) Sensor spoofing simulation
 - Poster: Automated Discovery of Sensor Spoofing Attacks on Robotic Vehicles, CCS'22.
 
 
-## 1-8) RV swarm
+## 1-9) RV swarm
 - Swarmbug: Debugging Configuration Bugs in Swarm Robotics, FSE'21.
 - Vision-based Drone Flocking in Outdoor Environments, IEEE Robotics and Automation Letters'21.
 - SWARMFLAWFINDER: Discovering and Exploiting Logic Flaws of Swarm Algorithms, S&P'22.
@@ -72,24 +76,24 @@
 - SwarmFuzz: Discovering GPS Spoofing Attacks in Drone Swarms, DSN'23.
 - Lightweight Privacy-Preserving Proximity Discovery for Remotely-Controlled Drones, ACSAC'23
 
-## 1-9) ROS
+## 1-10) ROS
 - PhysFrame: Type Checking Physical Frames of Reference for Robotic Systems, FSE'21.
 - RoboFuzz: Fuzzing Robotic Systems over Robot Operating System (ROS) for Finding Correctness Bugs, FSE'22.
 - On the (In)Security of Secure ROS2, CCS'22.
 
 
-## 1-10) Forensic
+## 1-11) Forensic
 - From Control Model to Program: Investigating Robotic Aerial Vehicle Accidents with MAYDAY, USENIX security'20.
 - RVPLAYER: Robotic Vehicle Forensics by Replay with What-if Reasoning, NDSS'22.
 
 
-## 1-11) Memory attack detection, recovery, and prevention
+## 1-12) Memory attack detection, recovery, and prevention
 - Protecting baremetal embedded systems with privilege overlays, S&P'17.
 - Securing real-time microcontroller systems through customized memory view switching, NDSS'18.
 - ACES: Automatic compartments for embedded systems, USENIX security'18.
 
 
-## 1-12) Physical attack detection, recovery, and prevention
+## 1-13) Physical attack detection, recovery, and prevention
 - Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack, AsiaCCS'18.
 - Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach, CCS'18.
 - SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants, USENIX security'20.
@@ -97,7 +101,7 @@
 - Replay-based Recovery for Autonomous Robotic Vehicles from Sensor Deception Attacks, arxiv.
 
 
-## 1-13) Discovering bugs
+## 1-14) Discovering bugs
 - RVFuzzer: Finding Input Validation Bugs in Robotic Vehicles through Control-Guided Testing, USENIX Security'19.
 - Cyber-Physical Inconsistency Vulnerability Identification for Safety Checks in Robotic Vehicles, CCS'20.
 - PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles, NDSS'21.
@@ -105,11 +109,11 @@
 - PatchVerif: Discovering Faulty Patches in Robotic Vehicles, USENIX Security'23.
 
 
-## 1-14) Patching bugs
+## 1-15) Patching bugs
 - PGPATCH: Policy-Guided Logic Bug Patching for Robotic Vehicles, S&P'22.
 
 
-## 1-15) Privacy
+## 1-16) Privacy
 - Privaros: A framework for privacy-compliant delivery drones, CCS'20.
 
 
