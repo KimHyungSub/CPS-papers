@@ -117,6 +117,9 @@
 - Privaros: A framework for privacy-compliant delivery drones, CCS'20.
 
 
+## 1-17) Control theory
+- Learning to Fly—a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control, IROS'21.
+
 
 # 2. Research papers related to industrial control system (ICS) :factory:
 
