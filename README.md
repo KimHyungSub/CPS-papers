@@ -229,3 +229,9 @@
 
 ## 5-2) Verifying/Testing correctness of CPS
 - VeriFast: A powerful, sound, predictable, fast verifier for C and Java, NASA formal methods symposium 2011.
+
+## 5-3) Adversarial attacks against CPS
+- Learning-Based Vulnerability Analysis of Cyber-Physical Systems, ICCPS'22.
+- Stealthy attacks formalized as STL formulas for Falsification of CPS Security, HSCC'23
+- Vulnerability Analysis for Safe Reinforcement Learning in Cyber-Physical Systems, ICCPS'24.
+  
