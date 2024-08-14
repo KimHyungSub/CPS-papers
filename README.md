@@ -235,3 +235,9 @@
 - Stealthy attacks formalized as STL formulas for Falsification of CPS Security, HSCC'23
 - Vulnerability Analysis for Safe Reinforcement Learning in Cyber-Physical Systems, ICCPS'24.
   
+## 5-4) Honeypots
+- HoneyDrone: A medium-interaction unmanned aerial vehicle honeypot, NOMS'18.
+- Honeyplc: A next-generation honeypot for industrial control systems, CCS'20.
+- ICSPOT: A high-interaction honeypot for industrial control systems, ISNCC'22.
+- HoneyICS: A high-interaction physics-aware honeynet for industrial control systems, ARES'23.
+- Conpot (https://github.com/mushorg/conpot)
