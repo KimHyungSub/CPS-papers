@@ -42,11 +42,15 @@
 - Cryptography Is Not Enough: Relay Attacks on Authenticated GNSS Signals, arXiv (2022).
 
 
-## 1-4) Optical flow spoofing
+## 1-4) Radio attacks
+- MakeShift: Security Analysis of Shimano Di2 Wireless Gear Shifting in Bicycles, USENIX Security'24.
+
+
+## 1-5) Optical flow spoofing
 - Controlling UAVs with Sensor Input Spoofing Attacks, WOOT'16.
 
 
-## 1-5) Sound noise on gyroscope
+## 1-6) Sound noise on gyroscope
 - Rocking Drones with Intentional Sound Noise on Gyroscopic Sensors, USENIX security'15.
 - WALNUT: Waging Doubt on the Integrity of MEMS Accelerometers with Acoustic Injection Attacks, EuroS&P'17.
 - SONIC GUN TO SMART DEVICES YOUR DEVICES LOSE CONTROL UNDER ULTRASOUND/SOUND, BlackHat'17.
@@ -54,19 +58,19 @@
 - Un-Rocking Drones: Foundations of Acoustic Injection Attacks and Recovery Thereof, NDSS'23.
 
 
-## 1-6) Depth camera spoofing
+## 1-7) Depth camera spoofing
 - DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems, USENIX security'22.
 
 
-## 1-7) Laser injection
+## 1-8) Laser injection
 - Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems, USENIX security'20.
  
 
-## 1-8) Sensor spoofing simulation
+## 1-9) Sensor spoofing simulation
 - Poster: Automated Discovery of Sensor Spoofing Attacks on Robotic Vehicles, CCS'22.
 
 
-## 1-9) RV swarm
+## 1-10) RV swarm
 - Swarmbug: Debugging Configuration Bugs in Swarm Robotics, FSE'21.
 - Vision-based Drone Flocking in Outdoor Environments, IEEE Robotics and Automation Letters'21.
 - SWARMFLAWFINDER: Discovering and Exploiting Logic Flaws of Swarm Algorithms, S&P'22.
@@ -76,24 +80,24 @@
 - SwarmFuzz: Discovering GPS Spoofing Attacks in Drone Swarms, DSN'23.
 - Lightweight Privacy-Preserving Proximity Discovery for Remotely-Controlled Drones, ACSAC'23
 
-## 1-10) ROS
+## 1-11) ROS
 - PhysFrame: Type Checking Physical Frames of Reference for Robotic Systems, FSE'21.
 - RoboFuzz: Fuzzing Robotic Systems over Robot Operating System (ROS) for Finding Correctness Bugs, FSE'22.
 - On the (In)Security of Secure ROS2, CCS'22.
 
 
-## 1-11) Forensic
+## 1-12) Forensic
 - From Control Model to Program: Investigating Robotic Aerial Vehicle Accidents with MAYDAY, USENIX security'20.
 - RVPLAYER: Robotic Vehicle Forensics by Replay with What-if Reasoning, NDSS'22.
 
 
-## 1-12) Memory attack detection, recovery, and prevention
+## 1-13) Memory attack detection, recovery, and prevention
 - Protecting baremetal embedded systems with privilege overlays, S&P'17.
 - Securing real-time microcontroller systems through customized memory view switching, NDSS'18.
 - ACES: Automatic compartments for embedded systems, USENIX security'18.
 
 
-## 1-13) Physical attack detection, recovery, and prevention
+## 1-14) Physical attack detection, recovery, and prevention
 - Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack, AsiaCCS'18.
 - Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach, CCS'18.
 - SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants, USENIX security'20.
@@ -101,7 +105,7 @@
 - Replay-based Recovery for Autonomous Robotic Vehicles from Sensor Deception Attacks, arxiv.
 
 
-## 1-14) Discovering bugs
+## 1-15) Discovering bugs
 - RVFuzzer: Finding Input Validation Bugs in Robotic Vehicles through Control-Guided Testing, USENIX Security'19.
 - Cyber-Physical Inconsistency Vulnerability Identification for Safety Checks in Robotic Vehicles, CCS'20.
 - PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles, NDSS'21.
@@ -109,15 +113,15 @@
 - PatchVerif: Discovering Faulty Patches in Robotic Vehicles, USENIX Security'23.
 
 
-## 1-15) Patching bugs
+## 1-16) Patching bugs
 - PGPATCH: Policy-Guided Logic Bug Patching for Robotic Vehicles, S&P'22.
 
 
-## 1-16) Privacy
+## 1-17) Privacy
 - Privaros: A framework for privacy-compliant delivery drones, CCS'20.
 
 
-## 1-17) Control theory
+## 1-18) Control theory
 - Learning to Fly—a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control, IROS'21.
 
 
