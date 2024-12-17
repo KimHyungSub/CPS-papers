@@ -40,7 +40,7 @@
 - Cryptography Is Not Enough: Real-time Location Spoofing of Authenticated GNSS Signals, arxiv.
 - SemperFi: Anti-spoofing GPS Receiver for UAVs, NDSS'22.
 - Cryptography Is Not Enough: Relay Attacks on Authenticated GNSS Signals, arXiv (2022).
-- Galileo-SDR-SIM: An Open-Source Tool for Generating Galileo Satellite Signals, ION GNSS+ 2023
+- Galileo-SDR-SIM: An Open-Source Tool for Generating Galileo Satellite Signals, ION GNSS+ 2023.
 
 
 ## 1-4) Radio attacks
