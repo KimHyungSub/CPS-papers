@@ -202,7 +202,7 @@
 - Invisible in both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks, S&P'21.
 - Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Adversarial Attack, USENIX Security'21.
 - You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks, USENIX Security'23.
-
+- PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR, NDSS'25.
 
 ## 3-4) Preventing or mitigating physical attacks
 - Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks, USENIX Security'23.
