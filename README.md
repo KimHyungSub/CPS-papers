@@ -204,15 +204,20 @@
 - You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks, USENIX Security'23.
 - PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR, NDSS'25.
 
+
 ## 3-4) Preventing or mitigating physical attacks
 - Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks, USENIX Security'23.
 
 
-## 3-5) Privacy
+## 3-5) Forensic
+- Interventional Root Cause Analysis of Failures in Multi-Sensor Fusion Perception Systems, NDSS'25.
+
+
+## 3-6) Privacy
 - Understand Users' Privacy Perception and Decision of V2X Communication in Connected Autonomous Vehicles, USENIX Security'23.
 
 
-## 3-6) Driving with large language models
+## 3-7) Driving with large language models
 - LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving, arxiv 2023.
 - Empowering Autonomous Driving with Large Language Models: A Safety Perspective, arxiv 2023.
 
