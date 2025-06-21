@@ -222,6 +222,12 @@
 - Empowering Autonomous Driving with Large Language Models: A Safety Perspective, arxiv 2023.
 
 
+## 3-8) Predicting object classes and bounding boxes
+- You only look once: Unified, real-time object detection, arxiv 2015.
+- SSD: single shot multibox detector, ECCV 2016.
+- End-to-end object detection with transformers, ECCV 2020. 
+
+ 
 # 4. Research papers related to satellites :satellite:
 ## 4-1) Discovering bugs or vulnerabilities
 - Space Odyssey: An Experimental Software Security Analysis of Satellites, S&P'23.
