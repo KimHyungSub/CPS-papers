@@ -100,6 +100,7 @@
 
 ## 1-14) Physical attack detection, recovery, and prevention
 - Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack, AsiaCCS'18.
+- NoisePrint: Attack Detection Using Sensor and Process Noise Fingerprint in Cyber Physical Systems, AsiaCCS'18.
 - Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach, CCS'18.
 - SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants, USENIX security'20.
 - M2MON: Building an MMIO-based Security Reference Monitor for Unmanned Vehicles, USENIX security'21.
