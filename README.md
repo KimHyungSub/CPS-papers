@@ -48,6 +48,7 @@
 
 
 ## 1-4) Radio attacks
+- On the Implications of Spoofing and Jamming Aviation Datalink Applications, ACSAC'22 (<a href="https://aanjhan.com/assets/sathaye22_acsac.pdf">paper</a>)
 - MakeShift: Security Analysis of Shimano Di2 Wireless Gear Shifting in Bicycles, USENIX Security'24.
 
 
