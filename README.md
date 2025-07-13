@@ -143,7 +143,7 @@
 - Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering, KDD'21
 - Log-Based Anomaly Detection With Robust Feature Extraction and Online Learning, T-IFS 2021
 - AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, IEEE TRANSACTIONS ON MOBILE COMPUTING 2022
-- Attributions for ML-based ICS Anomaly Detection: From Theory to Practice, NDSS'24 ((<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-216-paper.pdf">paper</a>))
+- Attributions for ML-based ICS Anomaly Detection: From Theory to Practice, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-216-paper.pdf">paper</a>)
 
 
 ## 2-3) Anomaly detection with program analysis
