@@ -23,6 +23,8 @@
 - Signal Injection Attacks against CCD Image Sensors, AsiaCCS'22
 - Paralyzing Drones via EMI Signal Injection on Sensory Communication Channels, NDSS'23.
 - GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI, USENIX Security'23
+- EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-552-paper.pdf">paper</a>)
+- GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-15-paper.pdf">paper</a>)
   
 ### 1-2-1) Countermeasures against EMI attacks
   - Electromagnetic interference, Electronics Computer Technology, 2011. (EMI filters such as L-C, Pi, T filters)
@@ -30,6 +32,7 @@
   - Pycra: Physical challenge-response authentication for active sensors under spoofing attacks, CCS'15. (Low-pass filter)
   - Electromagnetic Signal Injection Attacks on Differential Signaling, arXiv, 2022. (Differential signaling)
   - Wireless manipulation of serial communication, AsiaCCS'22. (Twisted pair and coaxial cables)
+    
 ### 1-2-2) Tools
   - <a href="https://www.ansys.com/products/electronics/ansys-hfss" target="_blank">Electromagnetic Field Simulator</a>
 
@@ -85,6 +88,7 @@
 - PhysFrame: Type Checking Physical Frames of Reference for Robotic Systems, FSE'21.
 - RoboFuzz: Fuzzing Robotic Systems over Robot Operating System (ROS) for Finding Correctness Bugs, FSE'22.
 - On the (In)Security of Secure ROS2, CCS'22.
+- Decentralized Information-Flow Control for ROS2, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-101-paper.pdf">paper</a>)
 
 
 ## 1-12) Forensic
@@ -139,6 +143,7 @@
 - Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering, KDD'21
 - Log-Based Anomaly Detection With Robust Feature Extraction and Online Learning, T-IFS 2021
 - AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis, IEEE TRANSACTIONS ON MOBILE COMPUTING 2022
+- Attributions for ML-based ICS Anomaly Detection: From Theory to Practice, NDSS'24 ((<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-216-paper.pdf">paper</a>))
 
 
 ## 2-3) Anomaly detection with program analysis
@@ -203,6 +208,9 @@
 - Invisible in both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks, S&P'21.
 - Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Adversarial Attack, USENIX Security'21.
 - You Can't See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks, USENIX Security'23.
+- LiDAR Spoofing Meets the New-Gen: Capability Improvements, Broken Assumptions, and New Attack Strategies, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-350-paper.pdf">paper</a>)
+- Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-1053-paper.pdf">paper</a>)
+- MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/ndss2024_f153_paper.pdf">paper</a>)
 - PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR, NDSS'25.
 
 
