@@ -26,6 +26,7 @@
 - EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-552-paper.pdf">paper</a>)
 - GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-15-paper.pdf">paper</a>)
   
+  
 ### 1-2-1) Countermeasures against EMI attacks
   - Electromagnetic interference, Electronics Computer Technology, 2011. (EMI filters such as L-C, Pi, T filters)
   - Ghost talk: Mitigating EMI signal injection attacks against analog sensors, S&P'13. (Shielding and differential signaling)
@@ -117,6 +118,7 @@
 - PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles, NDSS'21.
 - Control Parameters Considered Harmful: Detecting Range Specification Bugs in Drone Configuration Modules via Learning-Guided Search, ICSE'22.
 - PatchVerif: Discovering Faulty Patches in Robotic Vehicles, USENIX Security'23.
+- Truman: Constructing Device Behavior Models from OS Drivers to Fuzz Virtual Devices, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-301-paper.pdf">paper</a>)
 
 
 ## 1-16) Patching bugs
@@ -177,10 +179,15 @@
 - Empirical Study of PLC Authentication Protocols in Industrial Control Systems, SPW'21
 - Automated Runtime Mitigation for Misconfiguration Vulnerabilities in Industrial Control Systems, RAID'22
 - ICSPatch: Automated Vulnerability Localization and Non-Intrusive Hotpatching in Industrial Control Systems using Data Dependence Graphs, USENIX Security'23
+- ICSQuartz: Scan Cycle-Aware and Vendor-Agnostic Fuzzing for Industrial Control Systems, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-795-paper.pdf">paper</a>)
 
   
 ## 2-8) Attacks 
 - Constrained Concealment Attacks against Reconstruction-based Anomaly Detectors in Industrial Control Systems, ACSAC'20
+- PowerRadio: Manipulate Sensor Measurement via Power GND Radiation, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-295-paper.pdf">paper</a>)
+- ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-691-paper.pdf">paper</a>)
+- LightAntenna: Characterizing the Limits of Fluorescent Lamp-Induced Electromagnetic Interference, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-2334-paper.pdf">paper</a>)
+- EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-200-paper.pdf">paper</a>)
 
 
 ## 2-9) Reverse engineering
@@ -212,10 +219,15 @@
 - Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-1053-paper.pdf">paper</a>)
 - MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/ndss2024_f153_paper.pdf">paper</a>)
 - PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR, NDSS'25.
+- GhostShot: Manipulating the Image of CCD Cameras with Electromagnetic Interference, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-2065-paper.pdf">paper</a>)
+- On the Realism of LiDAR Spoofing Attacks against Autonomous Driving Vehicle at High Speed and Long Distance, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-628-paper.pdf">paper</a>)
+- Revisiting Physical-World Adversarial Attack on Traffic Sign Recognition: A Commercial Systems Perspective, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-s90-paper.pdf">paper</a>)
+- L-HAWK: A Controllable Physical Adversarial Patch Against a Long-Distance Target, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-26-paper.pdf">paper</a>)
 
 
 ## 3-4) Preventing or mitigating physical attacks
 - Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks, USENIX Security'23.
+- Interventional Root Cause Analysis of Failures in Multi-Sensor Fusion Perception Systems, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-36-paper.pdf">paper</a>)
 
 
 ## 3-5) Forensic
@@ -241,8 +253,11 @@
 ## 4-1) Discovering bugs or vulnerabilities
 - Space Odyssey: An Experimental Software Security Analysis of Satellites, S&P'23.
 
+## 4-2) Attacks
+- Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-109-paper.pdf">paper</a>)
+- Starshields for iOS: Navigating the Security Cosmos in Satellite Communication, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-124-paper.pdf">paper</a>)
 
-## 4-2) Preventing attacks
+## 4-3) Preventing attacks
 - Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting, CCS'23.
 
 
@@ -254,6 +269,11 @@
 
 ## 5-2) Verifying/Testing correctness of CPS
 - VeriFast: A powerful, sound, predictable, fast verifier for C and Java, NASA formal methods symposium 2011.
+- VulShield: Protecting Vulnerable Code Before Deploying Patches, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-298-paper.pdf">paper</a>)
+- Enhancing Security in Third-Party Library Reuse - Comprehensive Detection of 1-day Vulnerability through Code Patch Analysis, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-576-paper.pdf">paper</a>)
+- JBomAudit: Assessing the Landscape, Compliance, and Security Implications of Java SBOMs, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-322-paper.pdf">paper</a>)
+- Be Careful of What You Embed: Demystifying OLE Vulnerabilities, NDSS'25  (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-547-paper.pdf">paper</a>)
+- From Large to Mammoth: A Comparative Evaluation of Large Language Models in Vulnerability Detection, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-1491-paper.pdf">paper</a>)
 
 ## 5-3) Adversarial attacks against CPS
 - Learning-Based Vulnerability Analysis of Cyber-Physical Systems, ICCPS'22.
@@ -266,3 +286,18 @@
 - ICSPOT: A high-interaction honeypot for industrial control systems, ISNCC'22.
 - HoneyICS: A high-interaction physics-aware honeynet for industrial control systems, ARES'23.
 - Conpot (https://github.com/mushorg/conpot)
+
+## 5-5) Binary analysis
+- VeriBin: Adaptive Verification of Patches at the Binary Level, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-359-paper.pdf">paper</a>)
+- Beyond Classification: Inferring Function Names in Stripped Binaries via Domain Adapted LLMs, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-797-paper.pdf">paper</a>)
+- BinEnhance: An Enhancement Framework Based on External Environment Semantics for Binary Code Search, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-568-paper.pdf">paper</a>)
+- Unleashing the Power of Generative Model in Recovering Variable Names from Stripped Binary, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-276-paper.pdf">paper</a>)
+
+## 5-6) WiFi and Bluetooth security
+- Off-Path TCP Hijacking in Wi-Fi Networks: A Packet-Size Side Channel Attack, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-305-paper.pdf">paper</a>)
+- CHAOS: Exploiting Station Time Synchronization in 802.11 Networks, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-187-paper.pdf">paper</a>)
+- Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-5-paper.pdf">paper</a>)
+- Rediscovering Method Confusion in Proposed Security Fixes for Bluetooth, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-310-paper.pdf">paper</a>)
+
+## 5-7) RUST
+- Translating C To Rust: Lessons from a User Study, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-1407-paper.pdf">paper</a>)
