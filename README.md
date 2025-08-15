@@ -25,6 +25,7 @@
 - GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with IEMI, USENIX Security'23
 - EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-552-paper.pdf">paper</a>)
 - GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-15-paper.pdf">paper</a>)
+- Sound of Interference: Electromagnetic Eavesdropping Attack on Digital Microphones Using Pulse Density Modulation, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-onishi.pdf">paper</a>)
   
   
 ### 1-2-1) Countermeasures against EMI attacks
@@ -38,7 +39,11 @@
   - <a href="https://www.ansys.com/products/electronics/ansys-hfss" target="_blank">Electromagnetic Field Simulator</a>
 
 
-## 1-3) GPS/GNSS spoofing
+## 1-3) mmWave
+- DiskSpy: Exploring a Long-Range Covert-Channel Attack via mmWave Sensing of μm-level HDD Vibrations, USENIX Security'25  (<a href="https://www.usenix.org/system/files/usenixsecurity25-xu-weiye.pdf">paper</a>)
+
+  
+## 1-4) GPS/GNSS spoofing
 - All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems, USENIX security'18.
 - Crowd-GPS-Sec: Leveraging Crowdsourcing to Detect and Localize GPS Spoofing Attacks, S&P'18.
 - Cryptography Is Not Enough: Real-time Location Spoofing of Authenticated GNSS Signals, arxiv.
@@ -47,36 +52,37 @@
 - Galileo-SDR-SIM: An Open-Source Tool for Generating Galileo Satellite Signals, ION GNSS+ 2023.
 
 
-## 1-4) Radio attacks
+## 1-5) Radio attacks
 - On the Implications of Spoofing and Jamming Aviation Datalink Applications, ACSAC'22 (<a href="https://aanjhan.com/assets/sathaye22_acsac.pdf">paper</a>)
 - MakeShift: Security Analysis of Shimano Di2 Wireless Gear Shifting in Bicycles, USENIX Security'24.
 
 
-## 1-5) Optical flow spoofing
+## 1-6) Optical flow spoofing
 - Controlling UAVs with Sensor Input Spoofing Attacks, WOOT'16.
 
 
-## 1-6) Sound noise on gyroscope
+## 1-7) Sound noise on gyroscope
 - Rocking Drones with Intentional Sound Noise on Gyroscopic Sensors, USENIX security'15.
 - WALNUT: Waging Doubt on the Integrity of MEMS Accelerometers with Acoustic Injection Attacks, EuroS&P'17.
 - SONIC GUN TO SMART DEVICES YOUR DEVICES LOSE CONTROL UNDER ULTRASOUND/SOUND, BlackHat'17.
 - Injected and Delivered: Fabricating Implicit Control over Actuation Systems by Spoofing Inertial Sensors, USENIX Security'18.
 - Un-Rocking Drones: Foundations of Acoustic Injection Attacks and Recovery Thereof, NDSS'23.
+- TimeTravel: Real-time Timing Drift Attack on System Time Using Acoustic Waves, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-liu-jianshuo.pdf">paper</a>)
 
 
-## 1-7) Depth camera spoofing
+## 1-8) Depth camera spoofing
 - DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems, USENIX security'22.
 
 
-## 1-8) Laser injection
+## 1-9) Laser injection
 - Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems, USENIX security'20.
  
 
-## 1-9) Sensor spoofing simulation
+## 1-10) Sensor spoofing simulation
 - Poster: Automated Discovery of Sensor Spoofing Attacks on Robotic Vehicles, CCS'22.
 
 
-## 1-10) RV swarm
+## 1-11) RV swarm
 - Swarmbug: Debugging Configuration Bugs in Swarm Robotics, FSE'21.
 - Vision-based Drone Flocking in Outdoor Environments, IEEE Robotics and Automation Letters'21.
 - SWARMFLAWFINDER: Discovering and Exploiting Logic Flaws of Swarm Algorithms, S&P'22.
@@ -85,35 +91,37 @@
 - Self-Adaptive Mechanisms for Misconfigurations in Small Uncrewed Aerial Systems, SEAMS'23.
 - SwarmFuzz: Discovering GPS Spoofing Attacks in Drone Swarms, DSN'23.
 - Lightweight Privacy-Preserving Proximity Discovery for Remotely-Controlled Drones, ACSAC'23
+- Automated Discovery of Semantic Attacks in Multi-Robot Navigation Systems, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-yeke.pdf">paper</a>)
 
-## 1-11) ROS
+## 1-12) ROS
 - PhysFrame: Type Checking Physical Frames of Reference for Robotic Systems, FSE'21.
 - RoboFuzz: Fuzzing Robotic Systems over Robot Operating System (ROS) for Finding Correctness Bugs, FSE'22.
 - On the (In)Security of Secure ROS2, CCS'22.
 - Decentralized Information-Flow Control for ROS2, NDSS'24 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2024-101-paper.pdf">paper</a>)
 
 
-## 1-12) Forensic
+## 1-13) Forensic
 - From Control Model to Program: Investigating Robotic Aerial Vehicle Accidents with MAYDAY, USENIX security'20.
 - RVPLAYER: Robotic Vehicle Forensics by Replay with What-if Reasoning, NDSS'22.
 
 
-## 1-13) Memory attack detection, recovery, and prevention
+## 1-14) Memory attack detection, recovery, and prevention
 - Protecting baremetal embedded systems with privilege overlays, S&P'17.
 - Securing real-time microcontroller systems through customized memory view switching, NDSS'18.
 - ACES: Automatic compartments for embedded systems, USENIX security'18.
 
 
-## 1-14) Physical attack detection, recovery, and prevention
+## 1-15) Physical attack detection, recovery, and prevention
 - Sensor CON-Fusion: Defeating Kalman Filter in Signal Injection Attack, AsiaCCS'18.
 - NoisePrint: Attack Detection Using Sensor and Process Noise Fingerprint in Cyber Physical Systems, AsiaCCS'18.
 - Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach, CCS'18.
 - SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants, USENIX security'20.
 - M2MON: Building an MMIO-based Security Reference Monitor for Unmanned Vehicles, USENIX security'21.
 - Replay-based Recovery for Autonomous Robotic Vehicles from Sensor Deception Attacks, arxiv.
+- Software Availability Protection in Cyber-Physical Systems, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-li-ao.pdf">paper</a>)
 
 
-## 1-15) Discovering bugs
+## 1-16) Discovering bugs
 - RVFuzzer: Finding Input Validation Bugs in Robotic Vehicles through Control-Guided Testing, USENIX Security'19.
 - Cyber-Physical Inconsistency Vulnerability Identification for Safety Checks in Robotic Vehicles, CCS'20.
 - PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles, NDSS'21.
@@ -122,15 +130,22 @@
 - Truman: Constructing Device Behavior Models from OS Drivers to Fuzz Virtual Devices, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-301-paper.pdf">paper</a>)
 
 
-## 1-16) Patching bugs
+## 1-17) Patching bugs
 - PGPATCH: Policy-Guided Logic Bug Patching for Robotic Vehicles, S&P'22.
+- PATCHAGENT: A Practical Program Repair Agent Mimicking Human Expertise, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-yu-zheng.pdf">paper</a>)
+- Logs In, Patches Out: Automated Vulnerability Repair via Tree-of-Thought LLM Analysis, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-kim-youngjoon.pdf">paper</a>)
+- SoK: Automated Vulnerability Repair: Methods, Tools, and Assessments, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-hu-yiwei.pdf">paper</a>)
+- SoK: Towards Effective Automated Vulnerability Repair, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-li-ying.pdf">paper</a>)
+- APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-nong.pdf">paper</a>)
+- DISPATCH: Unraveling Security Patches from Entangled Code Changes, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-sun-shiyu.pdf">paper</a>)
+- Attacker Control and Bug Prioritization, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-lacombe.pdf">paper</a>)
 
 
-## 1-17) Privacy
+## 1-18) Privacy
 - Privaros: A framework for privacy-compliant delivery drones, CCS'20.
 
 
-## 1-18) Control theory
+## 1-19) Control theory
 - Learning to Fly—a Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control, IROS'21.
 
 
@@ -224,11 +239,15 @@
 - On the Realism of LiDAR Spoofing Attacks against Autonomous Driving Vehicle at High Speed and Long Distance, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-628-paper.pdf">paper</a>)
 - Revisiting Physical-World Adversarial Attack on Traffic Sign Recognition: A Commercial Systems Perspective, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-s90-paper.pdf">paper</a>)
 - L-HAWK: A Controllable Physical Adversarial Patch Against a Long-Distance Target, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-26-paper.pdf">paper</a>)
+- The Ghost Navigator: Revisiting the Hidden Vulnerability of Localization in Autonomous Driving, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-zhang-junqi.pdf">paper</a>)
+- Invisible but Detected: Physical Adversarial Shadow Attack and Defense on LiDAR Object Detection, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-kobayashi.pdf">paper</a>)
+- From Threat to Trust: Exploiting Attention Mechanisms for Attacks and Defenses in Cooperative Perception, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-wang-chenyi.pdf">paper</a>)
 
 
 ## 3-4) Preventing or mitigating physical attacks
 - Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks, USENIX Security'23.
 - Interventional Root Cause Analysis of Failures in Multi-Sensor Fusion Perception Systems, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-36-paper.pdf">paper</a>)
+- RollingEvidence: Autoregressive Video Evidence via Rolling Shutter Effect, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-qian.pdf">paper</a>)
 
 
 ## 3-5) Forensic
@@ -249,6 +268,9 @@
 - SSD: single shot multibox detector, ECCV 2016.
 - End-to-end object detection with transformers, ECCV 2020. 
 
+
+## 3-9) EV charging
+- Current Affairs: A Security Measurement Study of CCS EV Charging Deployments, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-szakaly.pdf">paper</a>)
  
 # 4. Research papers related to satellites :satellite:
 ## 4-1) Discovering bugs or vulnerabilities
@@ -266,15 +288,16 @@
 ## 5-1) Hotpatching
 - HERA: Hotpatching of Embedded Real-time Applications, NDSS'21.
 - RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices, USENIX Security'22.
-
+- Kintsugi: Secure Hotpatching for Code-Shadowing Real-Time Embedded Systems, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-mackensen.pdf">paper</a>)
 
 ## 5-2) Verifying/Testing correctness of CPS
 - VeriFast: A powerful, sound, predictable, fast verifier for C and Java, NASA formal methods symposium 2011.
 - VulShield: Protecting Vulnerable Code Before Deploying Patches, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-298-paper.pdf">paper</a>)
 - Enhancing Security in Third-Party Library Reuse - Comprehensive Detection of 1-day Vulnerability through Code Patch Analysis, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-576-paper.pdf">paper</a>)
 - JBomAudit: Assessing the Landscape, Compliance, and Security Implications of Java SBOMs, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-322-paper.pdf">paper</a>)
-- Be Careful of What You Embed: Demystifying OLE Vulnerabilities, NDSS'25  (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-547-paper.pdf">paper</a>)
+- Be Careful of What You Embed: Demystifying OLE Vulnerabilities, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-547-paper.pdf">paper</a>)
 - From Large to Mammoth: A Comparative Evaluation of Large Language Models in Vulnerability Detection, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-1491-paper.pdf">paper</a>)
+- GenHuzz: An Efficient Generative Hardware Fuzzer, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-wu-lichao.pdf">paper</a>)
 
 ## 5-3) Adversarial attacks against CPS
 - Learning-Based Vulnerability Analysis of Cyber-Physical Systems, ICCPS'22.
@@ -302,3 +325,13 @@
 
 ## 5-7) RUST
 - Translating C To Rust: Lessons from a User Study, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-1407-paper.pdf">paper</a>)
+
+## 5-8) Supply chain attacks/Open-source software security
+- SoK: A Security Architect's View of Printed Circuit Board Attacks, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-harrison.pdf">paper</a>)
+- A Mixed-Methods Study of Open-Source Software Maintainers On Vulnerability Management and Platform Security Features, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-ayala.pdf">paper</a>)
+- "Threat modeling is very formal, it's very technical, and also very hard to do correctly": Investigating Threat Modeling Practices in Open-Source Software Projects,  USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-kaur.pdf">paper</a>)
+- "I wasn't sure if this is indeed a security risk": Data-driven Understanding of Security Issue Reporting in GitHub Repositories of Open Source npm Packages, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-ghosh.pdf">paper</a>)
+- Context Matters: Qualitative Insights into Developers' Approaches and Challenges with Software Composition Analysis, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-lin-elizabeth.pdf">paper</a>)
+- Expert Insights into Advanced Persistent Threats: Analysis, Attribution, and Challenges, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-saha.pdf">paper</a>)
+- Patching Up: Stakeholder Experiences of Security Updates for Connected Medical Devices, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-kustosch-patching.pdf">paper</a>)
+- ChainFuzz: Exploiting Upstream Vulnerabilities in Open-Source Supply Chains, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-deng.pdf">paper</a>)
