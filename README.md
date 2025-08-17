@@ -274,11 +274,14 @@
  
 # 4. Research papers related to satellites :satellite:
 ## 4-1) Discovering bugs or vulnerabilities
-- Space Odyssey: An Experimental Software Security Analysis of Satellites, S&P'23.
+- Space Odyssey: An Experimental Software Security Analysis of Satellites, IEEE S&P'23.
+- SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses, IEEE S&P'25.
 
 ## 4-2) Attacks
 - Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-109-paper.pdf">paper</a>)
 - Starshields for iOS: Navigating the Security Cosmos in Satellite Communication, NDSS'25 (<a href="https://www.ndss-symposium.org/wp-content/uploads/2025-124-paper.pdf">paper</a>)
+- Space RadSim: Binary-Agnostic Fault Injection to Evaluate Cosmic Radiation Impact on Exploit Mitigation Techniques in Space, IEEE S&P'25.
+- Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks, IEEE S&P'25.
 
 ## 4-3) Preventing attacks
 - Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting, CCS'23.
@@ -335,3 +338,9 @@
 - Expert Insights into Advanced Persistent Threats: Analysis, Attribution, and Challenges, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-saha.pdf">paper</a>)
 - Patching Up: Stakeholder Experiences of Security Updates for Connected Medical Devices, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-kustosch-patching.pdf">paper</a>)
 - ChainFuzz: Exploiting Upstream Vulnerabilities in Open-Source Supply Chains, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-deng.pdf">paper</a>)
+- Unveiling Security Vulnerabilities in Git Large File Storage Protocol, IEEE S&P'25
+- Speedrunning the Maze: Meeting Regulatory Patching Deadlines in a Large Enterprise Environment, IEEE S&P'25
+- A Deep Dive Into How Open-Source Project Maintainers Review and Resolve Bug Bounty Reports, IEEE S&P'25
+- Study Club, Labor Union or Start-Up? Characterizing Teams and Collaboration in the Bug Bounty Ecosystem, IEEE S&P'25
+- Codebreaker: Dynamic Extraction Attacks on Code Language Models, IEEE S&P'25
+- Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks, IEEE S&P'25
