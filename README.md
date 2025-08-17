@@ -242,6 +242,7 @@
 - The Ghost Navigator: Revisiting the Hidden Vulnerability of Localization in Autonomous Driving, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-zhang-junqi.pdf">paper</a>)
 - Invisible but Detected: Physical Adversarial Shadow Attack and Defense on LiDAR Object Detection, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-kobayashi.pdf">paper</a>)
 - From Threat to Trust: Exploiting Attention Mechanisms for Attacks and Defenses in Cooperative Perception, USENIX Security'25 (<a href="https://www.usenix.org/system/files/usenixsecurity25-wang-chenyi.pdf">paper</a>)
+- ControlLoc: Physical-World Hijacking Attack on Camera-based Perception in Autonomous Driving, CCS'25.
 
 
 ## 3-4) Preventing or mitigating physical attacks
