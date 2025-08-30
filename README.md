@@ -287,6 +287,8 @@
 ## 4-3) Preventing attacks
 - Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting, CCS'23.
 
+## 4-4) Honeypot
+- HoneySat: A Network-based Satellite Honeypot Framework, arxiv, 2025 (<a href="https://arxiv.org/pdf/2505.24008">paper</a>)
 
 # 5. Other research topics related to CPS
 ## 5-1) Hotpatching
